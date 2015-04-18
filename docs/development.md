@@ -16,7 +16,7 @@ Prior to continue, make sure you've readed:
   - Remember, that tokens morphing in core is always more simple than writing
     block / inline rules (if you don't copy existing one). However,
     block & inline rules are usually faster.
-  - Sometime it's enougth to modify renderer only (for example, to add
+  - Sometime it's enough to modify the renderer only (for example, to add
     header IDs or `target="_blank"` for the links).
 2. Search existing
    [plugins](https://www.npmjs.org/browse/keyword/markdown-it-plugin)
